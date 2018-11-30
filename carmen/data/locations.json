@@ -5349,7 +5349,6 @@
 {"city": "", "country": "United States", "county": "Pike County", "parent_id": "3024", "state": "Alabama", "id": "5779", "aliases": ["pike county, united states"]}
 {"city": "", "country": "United States", "county": "Miami County", "parent_id": "3059", "state": "Ohio", "id": "5780", "aliases": ["miami county, united states"]}
 {"city": "", "country": "United States", "county": "Hawaii County", "parent_id": "3035", "state": "Hawaii", "id": "5781", "aliases": ["hawaii county, united states"]}
-{"city": "", "country": "United States", "county": "St Joseph County", "parent_id": "3038", "state": "Indiana", "id": "5782", "aliases": ["st joseph county, united states"]}
 {"city": "", "country": "United States", "county": "Rensselaer County", "parent_id": "631", "state": "New York", "id": "5783", "aliases": ["rensselaer county, united states"]}
 {"city": "", "country": "United States", "county": "Stone County", "parent_id": "3049", "state": "Missouri", "id": "5784", "aliases": ["stone county, united states"]}
 {"city": "", "country": "United Kingdom", "county": "West Yorkshire", "parent_id": "1106", "state": "England", "id": "5785", "aliases": ["west yorkshire, united kingdom"]}
@@ -5740,7 +5739,6 @@
 {"city": "", "country": "United States", "county": "Charlottesville City", "parent_id": "3070", "state": "Virginia", "id": "6170", "aliases": ["charlottesville city, united states"]}
 {"city": "", "country": "United States", "county": "Monroe County", "parent_id": "3066", "state": "Tennessee", "id": "6171"}
 {"city": "", "country": "United States", "county": "Mathews County", "parent_id": "3070", "state": "Virginia", "id": "6172", "aliases": ["mathews county, united states"]}
-{"city": "", "country": "Jordan", "county": "", "parent_id": "2545", "state": "'Amman", "id": "6173", "aliases": ["'amman, jordan"]}
 {"city": "", "country": "United States", "county": "McLean County", "parent_id": "3037", "state": "Illinois", "id": "6174", "aliases": ["mclean county, united states"]}
 {"city": "", "country": "United States", "county": "Leon County", "parent_id": "3033", "state": "Florida", "id": "6175", "aliases": ["leon county, united states"]}
 {"city": "", "country": "United States", "county": "Montgomery County", "parent_id": "3037", "state": "Illinois", "id": "6176"}
@@ -5830,7 +5828,7 @@
 {"city": "", "country": "United States", "county": "Person County", "parent_id": "3057", "state": "North Carolina", "id": "6260", "aliases": ["person county, united states"]}
 {"city": "", "country": "United States", "county": "Franklin County", "parent_id": "3071", "state": "Washington", "id": "6261"}
 {"city": "", "country": "United States", "county": "Clark County", "parent_id": "3037", "state": "Illinois", "id": "6262"}
-{"city": "", "country": "United States", "county": "St. Joseph County", "parent_id": "3038", "state": "Indiana", "id": "6263", "aliases": ["st. joseph county, united states"]}
+{"city": "", "country": "United States", "county": "St. Joseph County", "parent_id": "3038", "state": "Indiana", "id": "6263", "aliases": ["st. joseph county, united states", "st joseph county, united states"]}
 {"city": "", "country": "United States", "county": "Jackson County", "parent_id": "3027", "state": "Arkansas", "id": "6264"}
 {"city": "", "country": "United States", "county": "San Luis Obispo County", "parent_id": "440", "state": "California", "id": "6265", "aliases": ["san luis obispo county, united states"]}
 {"city": "", "country": "United States", "county": "Allegan County", "parent_id": "3046", "state": "Michigan", "id": "6266", "aliases": ["allegan county, united states"]}
@@ -6048,7 +6046,6 @@
 {"city": "", "country": "United States", "county": "Saline County", "parent_id": "3037", "state": "Illinois", "id": "6478"}
 {"city": "", "country": "United States", "county": "Beaufort County", "parent_id": "3057", "state": "North Carolina", "id": "6479"}
 {"city": "", "country": "Ivory Coast", "county": "Abidjan", "parent_id": "7354", "state": "Lagunes", "id": "6480", "aliases": ["abidjan, ivory coast"]}
-{"city": "", "country": "United States", "county": "St Tammany Parish", "parent_id": "2183", "state": "Louisiana", "id": "6481", "aliases": ["st tammany parish, united states"]}
 {"city": "", "country": "United States", "county": "Allegany County", "parent_id": "3044", "state": "Maryland", "id": "6482", "aliases": ["allegany county, united states"]}
 {"city": "", "country": "United States", "county": "Rice County", "parent_id": "3047", "state": "Minnesota", "id": "6483", "aliases": ["rice county, united states"]}
 {"city": "", "country": "United States", "county": "Berkeley County", "parent_id": "3064", "state": "South Carolina", "id": "6484"}
@@ -6061,7 +6058,7 @@
 {"city": "", "country": "United States", "county": "Shasta County", "parent_id": "440", "state": "California", "id": "6491", "aliases": ["shasta county, united states"]}
 {"city": "", "country": "United States", "county": "Hall County", "parent_id": "3051", "state": "Nebraska", "id": "6492", "aliases": ["hall county, united states"]}
 {"city": "", "country": "United States", "county": "Bradley County", "parent_id": "3027", "state": "Arkansas", "id": "6493", "aliases": ["bradley county, united states"]}
-{"city": "", "country": "United States", "county": "St. Tammany Parish", "parent_id": "2183", "state": "Louisiana", "id": "6494", "aliases": ["st. tammany parish, united states"]}
+{"city": "", "country": "United States", "county": "St. Tammany Parish", "parent_id": "2183", "state": "Louisiana", "id": "6494", "aliases": ["st. tammany parish, united states", "st tammany parish, united states"]}
 {"city": "", "country": "United States", "county": "Mesa County", "parent_id": "3029", "state": "Colorado", "id": "6495", "aliases": ["mesa county, united states"]}
 {"city": "", "country": "Canada", "county": "Northumberland", "parent_id": "1271", "state": "Ontario", "id": "6496", "aliases": ["northumberland, canada"]}
 {"city": "", "country": "Denmark", "county": "Lolland", "parent_id": "7355", "state": "Sjaelland", "id": "6497", "aliases": ["lolland, denmark"]}

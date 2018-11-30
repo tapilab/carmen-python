@@ -46,7 +46,7 @@ class PlaceResolver(AbstractResolver):
             return
         country = place.get('country', None)
         if not country:
-            warnings.warn('Tweet has Place with no country')
+            #warnings.warn('Tweet has Place with no country')
             return None
         country = ALTERNATIVE_COUNTRY_NAMES.get(country.lower(), country)
 

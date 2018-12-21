@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='carmen',
-    version='0.0.4',
+    version='0.0.5',
     description='Geolocation for Twitter',
     author='Roger Que and Mark Dredze',
     author_email='mark@dredze.com',
